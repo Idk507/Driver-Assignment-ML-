@@ -1,0 +1,13 @@
+[features]
+features = [
+    "driver_distance",
+    "event_hour",
+    "historical_completed_bookings",
+    "driver_acceptance_rate",
+    "wait_time",
+    "wait_time_squared",
+    "distance_time_interaction"
+]
+
+[target]
+target = "target"
